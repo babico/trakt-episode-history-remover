@@ -41,9 +41,11 @@ In my example this is the link of history of episode. So latest number is episod
 #### Get History ID of first added play
 
 Now go to last page on history, scroll to bottom of page. Click `CTRL + SHIFT + C` and select last item of history. Click the exact spot.
+
 ![text](https://babico.s-ul.eu/IiMIoIzR)
 
 Now you can see the HTML element in this element we need to store this `data-history-id` tag's value.
+
 ![text](https://babico.s-ul.eu/ltmn99Sc)
 
 #### Edit JSON File
