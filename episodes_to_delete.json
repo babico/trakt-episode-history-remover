@@ -1,0 +1,23 @@
+{ "episodes": [
+    {
+        "name": "Archer",
+        "season": 3,
+        "episode": 8,
+        "blacklist_id": 5346779973,
+        "id": 430785
+    },
+    {
+        "name": "Archer",
+        "season": 3,
+        "episode": 9,
+        "blacklist_id": 5347394761,
+        "id": 430786
+    },
+    {
+        "name": "Archer",
+        "season": 3,
+        "episode": 10,
+        "blacklist_id": 5347469303,
+        "id": 430787
+    }
+]}
